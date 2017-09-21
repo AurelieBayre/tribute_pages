@@ -1,0 +1,51 @@
+body {
+  background-color: #DADADA;
+  margin-top: 60px;
+}
+
+h1 {
+  color: #3E4055;
+}
+h2 {
+  color: #515366;
+}
+
+.gray-text {
+  color: #626475;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.legend {
+  margin-bottom: 60px;
+}
+
+.quote {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+li {
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.box {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+
+.tributebox {
+  background-color: #F8F6F8;
+  margin-top: 40px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  margin-left: 30px;
+} 
